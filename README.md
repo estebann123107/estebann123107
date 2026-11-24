@@ -1,47 +1,54 @@
-<div style="background: rgba(29, 36, 43, 1); border-radius: 20px;">
- <!-- Banner con efecto Neón / Glitch Spider-Verse -->
+<div align="center">
+
+  <!-- Banner con efecto Neón / Glitch Spider-Verse -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Esteban%20Meléndez&fontSize=52&fontAlignY=38&animation=twinkling&desc=Systems%20Engineering%20Student%20%7C%20Frontend%20Developer%20🕸️&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-<div style="display: flex">
-  <div align="center" >
+  <br/><br/>
 
   <!-- Imagen con marco estilizado Spider-Verse (Halftone / Glitch / Neon Cyan & Magenta) -->
   <table border="0" style="background: transparent; border: none;">
     <tr>
       <td align="center">
         <a href="https://github.com/estebann123107">
-          <img src="./esteban.jpeg" width="220" height="220" alt="Esteban Meléndez" style="border-radius: 20%; border: 2px solid #ff0055; box-shadow: 0 0 25px #00f2fe, 0 0 10px #ff0055; object-fit: cover;" />
+          <img src="./esteban.jpeg" width="220" height="220" alt="Esteban Meléndez" style="border-radius: 50%; border: 4px solid #ff0055; box-shadow: 0 0 25px #00f2fe, 0 0 10px #ff0055; object-fit: cover;" />
         </a>
       </td>
     </tr>
   </table>
 
-  </div>
-  <div style="padding-left: 40px; width: 50%; height: auto">
+  <!-- Subtítulo animado estilo máquina de escribir -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=80&lines=%3E_Leap+of+Faith%3B;Frontend+Developer+%26+Systems+Engineering;Transformando+ideas+en+interfaces+incre%C3%ADbles;Entrando+al+Spider-Verse..." alt="Typing SVG" />
+  </a>
 
-### 🕷️ `About Me`
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=estebann123107&color=ff0055&style=for-the-badge&label=SPIDER+VISITORS" alt="Profile Views" />
+  </p>
+
+</div>
+
+---
+
+### 🕷️ `Dimension // About Me`
 
 ```bash
 const esteban = {
   name: "Esteban Meléndez",
   role: "Frontend Developer",
   degree: "Ingeniería de Sistemas",
-  
+  status: "Tejiendo código y construyendo experiencias digitales",
+  quote: "Anyone can wear the mask. It's how you wear it that matters."
 };
 ```
-  </div>
-</div>
-<!-- Subtítulo animado estilo máquina de escribir -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=80&lines=%3E_Error+en+capa+8%3B;Frontend+Developer+%26+Systems+Engineering;Transformando+ideas+en+interfaces+incre%C3%ADbles;Entrando+al+Spider-Verse..." alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=estebann123107&color=ff0055&style=for-the-badge&label=VISITORS" alt="Profile Views" />
-  </p>
-</div>
+- 🕸️ **Perfil:** Estudiante apasionado por el desarrollo web frontend y la ingeniería de software.
+- ⚡ **Superpoder:** Diseñar interfaces dinámicas, responsivas y con gran impacto visual e interactividad.
+- 🧪 **En el multiverso:** Experimentando constantemente con nuevas tecnologías web, animaciones CSS y frameworks modernos.
+- 🎯 **Objetivo:** Crear aplicaciones modernas, accesibles y con rendimiento impecable.
 
-### ` Tech Stack`
+---
+
+### ⚡ `Web Shooter Arsenal // Tech Stack`
 
 <div align="center">
 
@@ -51,7 +58,7 @@ const esteban = {
 
 ---
 
-###  ` GitHub Stats`
+### 📊 `Spider-Radar // GitHub Stats`
 
 <div align="center">
   <table border="0">
